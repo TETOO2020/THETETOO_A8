@@ -119,6 +119,7 @@ else
     echo "tg not found"
     echo "Run $0 install"
     exit 1
+  fi
 
   if [ ! -f ./tg/bin/telegram-cli ]; then
     echo "tg binary not found"
@@ -128,7 +129,30 @@ else
   
  ## chmod 777 config_fix.sh
   
- 
+  echo -e "\033[38;5;208m"   
+  echo -e "       CH > @no_no2            "
+  echo -e "       CH > @no_no2           "
+  echo -e "       CH > @no_no2    "
+  echo -e "       CH > @no_no2     "
+  echo -e "       CH > @no_no2      "
+  echo -e "       CH > @no_no2     "
+  echo -e "       CH > @no_no2            " 
+  echo -e "       CH > @no_no2            "     
+  echo -e "       CH > @no_no2           "
+  echo -e "       CH > @no_no2         " 
+  echo -e "       CH > @no_no2           " 
+  echo -e "       CH > @no_no2          \033[0;00m"
+  echo -e "\e[36m"                                      
+  echo -e "CH > @no_no2" 
+   cat << EOF
+ $f1  @p0q_l_l_lo_p0q  
+ $f1  @k4k33_bot
+ $f1  @no_no2  
+ $f1               CH > @no_no2
+EOF
+echo -e "\e[100m          CH > @no_no2        \e[00;37;40m"
+echo -e "\e[01;34m        CH > @no_no2      \e[00;37;40m"
+echo ""
    
   if [ -f data/config.lua ]; then
     ./config_fix.sh
