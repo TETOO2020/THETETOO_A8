@@ -1,33 +1,36 @@
-#DEVTSHAKE_cli
-* 🔱- طريقه تنصيب سورس DEVTSHAKE العربي -🔱
+كيفيه تنصيب سورس تيتو 
+تابعو قتات السورس  @no_no2
 
-* 🔺- افتح ترمنال جديد وخلي🔧👇
-* sudo apt-get update
-* 🔺- عوفه مفتوح وفتح ترمنال لاخ وخلي 👇
-* sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
-* 🔺- وراهه 👇
-* git clone https://github.com/moodlIMyIl/DEVTSHAKE.git
-* 🔺- وراهه👇
-* cd DEVTSHAKE
-* 🔺- وراهه👇
-* chmod +x launch.sh
-* 🔺- وراهه👇
-* ./launch.sh install
-* 🔺- وراهه👇
-* ./launch.sh
-* 🔺- بعدها يطلب رقم ودخل ررقم ومبروك عليك البوت 💞🍃
-* 🔺- بعدها افتح ترمنال جديد واكتب 👇
-* sudo service redis-server start
-* 🔺- ودوس انتر 
-* 🔺- وسوي رن من ملف لانج
-* 🔺- بعد متسوي رن افتح ترمنال جديد واكتب 
-* cd DEVTSHAKE
-* 🔺- انتر وبعدها هل امر 
-* bash DEVTSHAKE.sh -t
-* 🔺- انتظر 5 ثواني يشتغل بوت 
-* هذا ملف يقلل وكفات بوت :)
-* 🔺-----------------------------🔺
+التنصيب
+1
 
-* by :- @lTSHAKEl_CH
+sudo apt-get update
+2
 
-* 🔺-----------------------------🔺
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+3
+
+sudo apt-get upgrade
+4
+
+git clone https://github.com/TETOO2020/THETETOO_A8.git
+5
+
+cd THETETOO_A8
+6
+
+chmod +x launch.sh
+7
+
+./launch.sh install
+8
+
+./launch.sh انتضر شويه وراح يطلب رقمه خليه
+Realm configuration
+
+After you run the bot for first time, send it !id. Get your ID and stop the bot.
+
+تفتح هاذا المسار ./data/config.lua sudo_users = { YourID } Then restart the bot.
+Support and development 🌐no_no2🌐 🐾
+
+For managing on Telegram. ADD Source @no_no2 ❤️ Subscribe to Source channel 🌐no_no2🌐 
